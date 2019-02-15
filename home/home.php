@@ -1,4 +1,4 @@
 <?php
-echo "home v1.0";
+echo "home v3.0";
 ?>
 
